@@ -1,0 +1,32 @@
+{
+  "name": "recipe-finder",
+  "version": "1.0.0",
+  "description": "Recipe Finder Project RESTful API",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "seed": "node ./seed",
+    "start": "nodemon app.js"
+  },
+  "author": "Michael Gredler",
+  "license": "ISC",
+  "dependencies": {
+    "@popperjs/core": "^2.10.2",
+    "arr-pluck": "^0.1.0",
+    "bcrypt": "^5.0.1",
+    "bluebird": "^3.7.2",
+    "cors": "^2.8.5",
+    "delay": "^5.0.0",
+    "express": "^4.17.1",
+    "jest": "^27.3.1",
+    "joi": "^17.4.2",
+    "joi-image-extension": "^1.0.0",
+    "joi-password-complexity": "^5.1.0",
+    "jsonwebtoken": "^8.5.1",
+    "nodemon": "^2.0.13",
+    "react-icons": "^4.3.1",
+    "sequelize": "^6.6.5",
+    "sqlite3": "^5.0.2",
+    "styled-components": "^5.3.3"
+  }
+}
