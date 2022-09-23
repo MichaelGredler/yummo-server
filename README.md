@@ -1,2 +1,2 @@
 # yummo-server
- The server for my recipe-finding app
+ The server for my recipe-finder app
