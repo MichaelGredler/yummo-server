@@ -10,7 +10,7 @@ GETTING STARTED
 5. npm i to install dependencies.
 6. npm start to start the client.
 7. Go to http://localhost:3000 in your browser.
-8. 8. Refresh the page if no recipes are showing.
+8. Refresh the page if no recipes are showing.
 
 Client repo:
 https://github.com/MichaelGredler/yummo-client.git
